@@ -25,8 +25,8 @@ Lightweight and beginner-friendly project
 
 🛠️ Technologies Used
 
-## HTML5 – Structure of the calculator
+### HTML5 – Structure of the calculator
 
-## CSS3 – Styling and layout
+### CSS3 – Styling and layout
 
-## JavaScript (Vanilla JS) – Calculator logic and functionality
+### JavaScript (Vanilla JS) – Calculator logic and functionality
